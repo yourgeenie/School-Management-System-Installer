@@ -1,0 +1,11 @@
+subID,subCode,subName,courseID
+1,IT 102,Computer Programming 1,2
+2,IT 101,Introduction to Computing,2
+3,IT 109,Discrete Mathematics,2
+4,IT 120,Event Driven Programming,2
+5,IT 105,Information Management,2
+6,IT 106,Application Development,2
+7,IT 117,Quantitative Methods,2
+8,IT 114,Networking,2
+9,IT 104,Data Structures and Algorithm,2
+10,IT 107,Digital System Design,2
